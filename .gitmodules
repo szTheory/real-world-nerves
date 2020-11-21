@@ -1,0 +1,8 @@
+[submodule "apps/traffic-light-client"]
+	path = apps/traffic-light-client
+	url = git@github.com:fabrik42/traffic-light-client-elixir.git
+	branch = master
+[submodule "apps/traffic-light-server"]
+	path = apps/traffic-light-server
+	url = git@github.com:fabrik42/traffic-light-server-elixir.git
+	branch = master
