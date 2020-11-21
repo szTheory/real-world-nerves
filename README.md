@@ -52,6 +52,7 @@ git submodule foreach git pull origin master
 - [Real World Elixir Apps](https://github.com/szTheory/real-world-elixir-apps)
 - [Real World Plug](https://github.com/szTheory/real-world-plug)
 - [Real World Phoenix](https://github.com/szTheory/real-world-phoenix)
+- [Real World Absinthe](https://github.com/szTheory/real-world-absinthe)
 - [Real World Rails](https://github.com/eliotsykes/real-world-rails)
 - [Real World Sinatra](https://github.com/jeromedalbert/real-world-sinatra)
 - [Real World Ruby Apps](https://github.com/jeromedalbert/real-world-ruby-apps)
